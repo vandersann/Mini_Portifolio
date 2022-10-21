@@ -14,7 +14,7 @@ No inicio, tive muita dificuldade apresentar meus projetos e divulgar meus conhe
 ![GitHub language count](https://img.shields.io/github/languages/count/vandersann/Mini_Portifolio?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/iuricode/Mini_Portifolio?style=for-the-badge)
 
-<p align="center">
+<p align="left">
 <img  width="800" src="src/img/apresentacao/portfolio.gif" alt="apresentacao do site">
 </p>
 
