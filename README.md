@@ -29,7 +29,7 @@ No inicio, tive muita dificuldade apresentar meus projetos e divulgar meus conhe
 
 ## :man_technologist: Acessando o projeto
 
-Para acessar o projeto é fácil: <a href="https://vandersann.github.io/Mini_Portifolio/" target="_blank"><kbd>click aqui</kbd></a> ou aponte seu celular | <img src="src/img/apresentacao/qr.png" height="125" width="125" alt="apresentacao do site">
+Para acessar o projeto é fácil: <a href="https://admirable-bubblegum-a587fe.netlify.app/" target="_blank"><kbd>click aqui</kbd></a> ou aponte seu celular | <img src="src/img/apresentacao/qr.png" height="125" width="125" alt="apresentacao do site">
 :--------- | :---------
 
 ## 📝 Licença
