@@ -8,7 +8,7 @@
 > Criação de um mini portifolio com intuito de ajudar novos desenvolvedores a apresentar um breve resumo sobre a pessoa, o cúrriculo, redes sociais e apresentação projetos de uma forma simples. 
 No inicio, tive muita dificuldade apresentar meus projetos e divulgar meus conhecimentos, pensando nisso, espero ajudar os iniciantes por meio desse projeto.
 
-> Projeto construído para fins didáticos, com o objetivo de colocar em prática os conhecimentos de HTML, CSS e JavaScript.
+> Projeto foi construído com fins didáticos, com o objetivo de colocar em prática os conhecimentos de HTML, CSS e JavaScript.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/vandersann/Mini_Portifolio?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/vandersann/Mini_Portifolio?style=for-the-badge)
